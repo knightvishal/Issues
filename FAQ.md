@@ -22,3 +22,4 @@
 - Guilds are broken. End of story. If your issue hasn't been reported before, please report it [here](https://github.com/Wynncraft/Issues/issues/3665). 
 
 If your issue sounds like one of these scenarios, try the solutions before making a new issue. 
+new
